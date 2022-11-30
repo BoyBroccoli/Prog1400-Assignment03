@@ -1,5 +1,6 @@
 import character.*;
 import gui.*;
+import gui.SplashScreen;
 //import weapon.*;
 
 import java.awt.*;
